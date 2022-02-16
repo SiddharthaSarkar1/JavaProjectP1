@@ -54,16 +54,16 @@ public class FileHandling {
 			
 			try {
 				//Creating file
-				//createFile();
+				createFile();
 				
 				//Writing in the file
-				//writeFile();
+				writeFile();
 				
 				//Reading the file
 				readFile();
 				
 				//Appended the file
-				//appendFile();
+				appendFile();
 				
 			} catch (IOException e) {
 				
